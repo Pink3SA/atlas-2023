@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "Star Wars Ireland Collab Art",
+	"description": "Artwork made by r/starwars_place for Ireland's flag, featuring a Tie Fighter, Boba Fett's helmet, and a red and blue lightsaber.",
+	"links": {
+		"subreddit": [
+			"starwars_place"
+		],
+		"discord": [
+			"TheGalacticRepublic"
+		]
+	},
+	"path": {
+		"163-251": [
+			[
+				283,
+				-135
+			],
+			[
+				316,
+				-135
+			],
+			[
+				316,
+				-151
+			],
+			[
+				283,
+				-151
+			],
+			[
+				283,
+				-135
+			]
+		]
+	},
+	"center": {
+		"163-251": [
+			300,
+			-143
+		]
+	}
+}
