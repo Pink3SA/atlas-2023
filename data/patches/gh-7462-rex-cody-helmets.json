@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "Rex & Cody Helmets",
+	"description": "The helmets of Rex and Cody from Star Wars, built by r/starwars_place.",
+	"links": {
+		"subreddit": [
+			"starwars_place"
+		],
+		"discord": [
+			"TheGalacticRepublic"
+		]
+	},
+	"path": {
+		"223-251": [
+			[
+				1047,
+				-725
+			],
+			[
+				1047,
+				-705
+			],
+			[
+				1081,
+				-705
+			],
+			[
+				1081,
+				-725
+			]
+		]
+	},
+	"center": {
+		"223-251": [
+			1064,
+			-715
+		]
+	}
+}
