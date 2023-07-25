@@ -1,0 +1,57 @@
+{
+	"id": -1,
+	"name": "Anti-XQC Alliance Collab Art",
+	"description": "The piece was constructed by the Anti-XQC Alliance (Star Wars, Touhou, Vietnam, Hatsune, Canada, TF2, and Indonesia) after their artworks were destroyed by XQC's Charizard Card, featuring elements of all member factions (with the exception of Indonesia, who were not able to find a way to represent themselves).",
+	"links": {
+		"subreddit": [
+			"starwars_place",
+			"touhou",
+			"vietnam",
+			"hatsune",
+			"canada",
+			"tf2",
+			"indonesia"
+		],
+		"discord": [
+			"TheGalacticRepublic"
+		]
+	},
+	"path": {
+		"206-249": [
+			[
+				-1361,
+				-701
+			],
+			[
+				-1289,
+				-701
+			],
+			[
+				-1289,
+				-661
+			],
+			[
+				-1307,
+				-661
+			],
+			[
+				-1307,
+				-660
+			],
+			[
+				-1362,
+				-660
+			],
+			[
+				-1362,
+				-701
+			]
+		]
+	},
+	"center": {
+		"206-249": [
+			-1325,
+			-680
+		]
+	}
+}
