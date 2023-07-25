@@ -1,0 +1,39 @@
+{
+	"id": -1,
+	"name": "r/starwars_place's 1st Piece",
+	"description": "After r/starwars_place's initial piece was overtaken by Fuck Spez and Peru, a smaller artwork with a Boba Helmet was made. This Boba Helmet was then used frequently in r/starwars_place's various artworks.",
+	"links": {
+		"subreddit": [
+			"starwars_place"
+		],
+		"discord": [
+			"TheGalacticRepublic"
+		]
+	},
+	"path": {
+		"45-70": [
+			[
+				30,
+				231
+			],
+			[
+				30,
+				249
+			],
+			[
+				50,
+				249
+			],
+			[
+				50,
+				231
+			]
+		]
+	},
+	"center": {
+		"45-70": [
+			40,
+			240
+		]
+	}
+}
