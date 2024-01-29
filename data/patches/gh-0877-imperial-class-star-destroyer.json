@@ -1,0 +1,110 @@
+{
+	"id": 5593,
+	"name": "Imperial-class Star Destroyer",
+	"description": "The Imperial-class Star Destroyer known generally as the Imperial Star Destroyer, was a product line of massive dagger-shaped capital ships of the Imperial Navy of the Galactic Empire and later the naval branch of the First Order\n\nThe Imperial-Star Destroyer replaced the smaller Venator-class used by the Galactic Republic during the Clone Wars and was generally the Galactic Empire's star cruiser of choice. At the height of its power, the Empire operated over 25,000 Star Destroyers.",
+	"links": {
+		"website": [
+			"https://starwars.fandom.com/wiki/Imperial-class_Star_Destroyer"
+		],
+		"subreddit": [
+			"StarWars_Place"
+		],
+		"discord": [
+			"TheGalacticRepublic"
+		]
+	},
+	"path": {
+		"T, 246-251": [
+			[
+				1022,
+				-772
+			],
+			[
+				1029,
+				-771
+			],
+			[
+				1031,
+				-768
+			],
+			[
+				1040,
+				-766
+			],
+			[
+				1045,
+				-759
+			],
+			[
+				1044,
+				-755
+			],
+			[
+				1053,
+				-744
+			],
+			[
+				1056,
+				-737
+			],
+			[
+				1063,
+				-726
+			],
+			[
+				1063,
+				-723
+			],
+			[
+				1057,
+				-724
+			],
+			[
+				1045,
+				-733
+			],
+			[
+				1034,
+				-740
+			],
+			[
+				1027,
+				-746
+			],
+			[
+				1018,
+				-751
+			],
+			[
+				1011,
+				-751
+			],
+			[
+				1004,
+				-758
+			],
+			[
+				1012,
+				-764
+			],
+			[
+				1019,
+				-769
+			],
+			[
+				1022,
+				-772
+			],
+			[
+				1024,
+				-772
+			]
+		]
+	},
+	"center": {
+		"T, 246-251": [
+			1032,
+			-756
+		]
+	}
+}
